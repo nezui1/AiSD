@@ -1,25 +1,30 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class Queue<T> {
-    private Object[] array;
-    private int front;
-    private int rear;
-    private int size;
+    private T[] data;
+    private int front; // Индекс начала очереди
+    private int rear; // Индекс конца очереди
+    private int size; // Максимальный размер очереди
 
-    public Queue() {
-        array = new Object[1];
+    public Queue(int capacity) {
+        data = (T[]) new Object[capacity];
         front = 0;
-        rear = -1;
+        rear = 0;
         size = 0;
     }
 
-    public void enqueue(T element) {
-        if (size == array.length) {
-            resizeArray();
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    public boolean isFull() {
+        return size == data.length;
+    }
+
+    public void enqueue(T item) {
+        if (isFull()) {
+            throw new IllegalStateException("Queue is full");
         }
-        rear = (rear + 1) % array.length;
-        array[rear] = element;
+        data[rear] = item;
+        rear = (rear + 1) % data.length;
         size++;
     }
 
@@ -27,22 +32,20 @@ public class Queue<T> {
         if (isEmpty()) {
             throw new IllegalStateException("Queue is empty");
         }
-        T element = (T) array[front];
-        front = (front + 1) % array.length;
+        T item = data[front];
+        front = (front + 1) % data.length;
         size--;
-        return element;
+        return item;
     }
 
-    public boolean isEmpty() {
-        return size == 0;
+    public T peek() {
+        if (isEmpty()) {
+            throw new IllegalStateException("Queue is empty");
+        }
+        return data[front];
     }
 
     public int size() {
         return size;
-    }
-
-    private void resizeArray() {
-        int newSize = array.length * 2;
-        array = Arrays.copyOf(array, newSize);
     }
 }
