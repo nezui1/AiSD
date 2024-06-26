@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\winformsapp3\\taskfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\taskfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\maxim\\source\\repos\\winformsapp3\\winformsapp3\\taskthird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\taskthird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\winformsapp3\\tasksecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F645C652-067B-419C-B21D-6A935A0C4D10}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\tasksecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAHsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:13:25.661Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:44:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskThird.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskThird.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\TaskThird.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskThird.cs",
+              "RelativeToolTip": "WinFormsApp3\\TaskThird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:19:12.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:29:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskSecond.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskSecond.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\TaskSecond.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskSecond.cs",
+              "RelativeToolTip": "WinFormsApp3\\TaskSecond.cs",
+              "ViewState": "AQIAABYAAACAZmZmZmYswDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:14:59.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskFirst.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskFirst.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\TaskFirst.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\WinFormsApp3\\WinFormsApp3\\TaskFirst.cs",
+              "RelativeToolTip": "WinFormsApp3\\TaskFirst.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:40:07.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
