@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\classtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\classtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\taskthreeclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\taskthreeclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\taskthreeclassone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\taskthreeclassone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\oval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\oval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp5\\winformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD158457-7AEE-40C9-99A0-F8D7488FCCDC}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 740,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskThreeClassTwo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\TaskThreeClassTwo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\TaskThreeClassTwo.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\TaskThreeClassTwo.cs",
+              "RelativeToolTip": "WinFormsApp5\\TaskThreeClassTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:11:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskThreeClassOne.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\TaskThreeClassOne.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\TaskThreeClassOne.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\TaskThreeClassOne.cs",
+              "RelativeToolTip": "WinFormsApp5\\TaskThreeClassOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:09:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Program.cs",
+              "RelativeToolTip": "WinFormsApp5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:45:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oval.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Oval.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Oval.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Oval.cs",
+              "RelativeToolTip": "WinFormsApp5\\Oval.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:48:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Square.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Square.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Square.cs",
+              "RelativeToolTip": "WinFormsApp5\\Square.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:42:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp5\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:23:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\ClassTable.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\ClassTable.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\ClassTable.cs",
+              "RelativeToolTip": "WinFormsApp5\\ClassTable.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:53:39.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:46:59.331Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
