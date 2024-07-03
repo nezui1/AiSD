@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\winformsapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|solutionrelative:winformsapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\winformsapp7\\serilog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|solutionrelative:winformsapp7\\serilog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|c:\\users\\\u043C\u0430\u043A\u0441\\source\\repos\\winformsapp7\\winformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|solutionrelative:winformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\winformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93DA9B6B-C4FA-410E-893A-4223BBB93449}|WinFormsApp7\\WinFormsApp7.csproj|solutionrelative:winformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 740,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "serilog.json",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\serilog.json",
+              "RelativeDocumentMoniker": "WinFormsApp7\\serilog.json",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\serilog.json",
+              "RelativeToolTip": "WinFormsApp7\\serilog.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T16:23:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Program.cs",
+              "RelativeToolTip": "WinFormsApp7\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:10:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp7\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:03:32.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\\source\\repos\\WinFormsApp7\\WinFormsApp7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:59:06.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
